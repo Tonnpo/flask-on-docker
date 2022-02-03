@@ -1,0 +1,4 @@
+*.pyc
+__pycache
+.env.prod
+.env.prod.db
