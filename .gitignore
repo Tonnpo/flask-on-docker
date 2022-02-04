@@ -2,3 +2,8 @@
 __pycache
 .env.prod
 .env.prod.db
+
+*.swp
+*.swo
+*.swn
+*.swm
